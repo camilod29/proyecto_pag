@@ -1,0 +1,81 @@
+.menu nav{
+    display: flex;
+    justify-content: center;
+    
+}
+.menu nav a{
+    width: 18%;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+.menu{
+
+    border-bottom: 5px solid red;
+   
+}
+.title h1{
+    margin: 50px;
+}
+ 
+/* Editar Estilos al buscador*/
+.btn-outline-success {
+    color: #f71515;
+    border-color: #e01717;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #ff0000;
+    border-color: #000000;
+}
+.d-flex{
+    margin-bottom: 5px;
+}
+
+.contet-first-cards{
+    display: flex;
+    justify-content: center;
+}
+.card {
+    margin: 20px;
+}
+.content-first{
+    border-bottom: 1px solid rgb(247, 88, 88);
+}
+
+.content-second-text{
+    margin-left: 100px;
+}
+.title{
+    display: flex;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #ff7676;
+    border-color: #e22020;
+}
+.btn-warning {
+    color: #000;
+    background-color: #ff7676;
+    border-color: #e22020;
+ 
+}
+.content-cine{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 25%;
+    padding: 20px;
+
+}
+.form-select{
+    width: 20%;
+}
+.footer{
+    margin-top: 30px;
+}
